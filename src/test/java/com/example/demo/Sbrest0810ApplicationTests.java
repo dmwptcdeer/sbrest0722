@@ -1,5 +1,5 @@
 package com.example.demo;
-server port:9090
+sever.port9090
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
